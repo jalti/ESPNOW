@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/jordi/Documentos/espnow/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
