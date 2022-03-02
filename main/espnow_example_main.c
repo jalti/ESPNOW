@@ -325,8 +325,8 @@ static esp_err_t example_espnow_init(void)
         esp_now_deinit();
         return ESP_FAIL;
     }
-    send_param->unicast = false;
-    send_param->broadcast = true;
+    send_param->unicast = true;
+    send_param->broadcast = false;
     send_param->state = 0;
     send_param->magic = esp_random();
     send_param->count = CONFIG_ESPNOW_SEND_COUNT;
